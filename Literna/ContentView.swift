@@ -27,7 +27,7 @@ struct ContentView: View {
                 Button(action: {
                     face.toggle()
                 }){
-                    Text(face ? "🌕" : "🌑").font(.system(size: 100))
+                    Text(face ? "🐻‍❄️" : "🐻").font(.system(size: 100))
                 }
             }
             
